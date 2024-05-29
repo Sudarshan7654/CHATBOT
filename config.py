@@ -17,7 +17,7 @@ BOT_TOKEN = getenv("7442968856:AAEh_wHDI0rR_yVh5WbY18GpmPtIUboMzt4", None)
 OWNER_ID = int(getenv("7067016448", ""))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://mdabdurrahman6700:IDd9KmG8lihaoBPc@cluster0.vzlztwd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 SUPPORT_GRP = getenv("SUPPORT_GRP", "ilovemovie123")
@@ -29,7 +29,7 @@ UPDATE_CHNL = getenv("UPDATE_CHNL", "ilovemovie143")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "itz_me_rohu")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_USERNAME = getenv("BOT_USERNAME", None)
+BOT_USERNAME = getenv("BOT_USERNAME", "itz_me_dkbot)
 
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
