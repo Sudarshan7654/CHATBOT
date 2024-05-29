@@ -5,28 +5,28 @@ from dotenv import load_dotenv
 load_dotenv()
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_ID = int(getenv("API_ID", "6435225"))
+API_ID = int(getenv("API_ID", "23129757"))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-API_HASH = getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
+API_HASH = getenv("API_HASH", "89ac3b95ec566b8b8e35fe7b53a6ffa5")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-BOT_TOKEN = getenv("BOT_TOKEN", None)
+BOT_TOKEN = getenv("7442968856:AAEh_wHDI0rR_yVh5WbY18GpmPtIUboMzt4", None)
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_ID = int(getenv("OWNER_ID", "6922271843"))
+OWNER_ID = int(getenv("7067016448", ""))
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-SUPPORT_GRP = getenv("SUPPORT_GRP", "THE_FRIENDZ")
+SUPPORT_GRP = getenv("SUPPORT_GRP", "ilovemovie123")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-UPDATE_CHNL = getenv("UPDATE_CHNL", "ROY_EDITX")
+UPDATE_CHNL = getenv("UPDATE_CHNL", "ilovemovie143")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
-OWNER_USERNAME = getenv("OWNER_USERNAME", "HLO_PAPA")
+OWNER_USERNAME = getenv("OWNER_USERNAME", "itz_me_rohu")
 
 #### ❖ ──────⊱◈◈◈⊰────── ❖
 BOT_USERNAME = getenv("BOT_USERNAME", None)
